@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+data/title.basics.tsv.gz
+data/name.basics.tsv.gz
+data/title.principals.tsv.gz
+data/title.ratings.tsv.gz
